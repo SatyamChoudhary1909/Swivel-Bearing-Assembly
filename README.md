@@ -65,6 +65,4 @@ The repository contains:
 
 ## Assembly Demo
 
-## Assembly Demo
-
 ![Assembly Demo](Media/Assembly_Demo.gif)
