@@ -65,4 +65,6 @@ The repository contains:
 
 ## Assembly Demo
 
-[▶️ Watch the Assembly Demo](Media/Assembly_Demo.mp4)
+## Assembly Demo
+
+![Assembly Demo](Media/Assembly_Demo.gif)
