@@ -20,29 +20,29 @@ The assembly was also exported in STEP format so that the models can be viewed a
 
 ### Isometric View
 
-![Assembly Isometric View](Media/01_Assembly_Isometric.png)
+![Assembly Isometric View](Media/1_Assembly_Isometric.png)
 
 ### Exploded View
 
-![Exploded View](Media/05_Exploded_View.png)
+![Exploded View](Media/Exploded%20View.png)
 
 ### Section View
 
-![Section View](Media/06_Section_View.png)
+![Section View](Media/Section%20View.png)
 
 ## Orthographic Views
 
 ### Front View
 
-![Front View](Media/02_Assembly_Front.png)
+![Front View](Media/Assembly_Front.png)
 
 ### Side View
 
-![Side View](Media/03_Assembly_Side.png)
+![Side View](Media/Assembly_Side.png)
 
 ### Top View
 
-![Top View](Media/04_Assembly_Top.png)
+![Top View](Media/Assembly_Top.png)
 
 ## Files
 
@@ -61,8 +61,8 @@ The repository contains:
 - Assembly constraints
 - Exploded and section views
 - Exporting CAD models to STEP format
-- Organizing CAD files for easy access
+- Organizing CAD files
 
 ## Assembly Demo
 
-[Watch the Assembly Demo](Media/07_Assembly_Demo.mp4)
+[▶️ Watch the Assembly Demo](Media/Assembly_Demo.mp4)
